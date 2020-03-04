@@ -1,0 +1,422 @@
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\bin\Debug\打印管理.exe.config
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\bin\Debug\打印管理.exe
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\bin\Debug\打印管理.pdb
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\obj\Debug\打印管理.exe
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\obj\Debug\打印管理.pdb
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\obj\Debug\打印管理.main.resources
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+C:\Users\95389\Desktop\新建文件夹\打印管理\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\bin\Debug\打印管理.exe.config
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.exe
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.pdb
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.main.resources
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.小票管理.resources
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\bin\Debug\打印管理.exe
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\bin\Debug\打印管理.pdb
+C:\Users\95389\Desktop\打印管理\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\bin\Debug\打印管理.exe.config
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\bin\Debug\打印管理.exe
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\bin\Debug\打印管理.pdb
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\bin\Debug\Aspose.Words.dll
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\bin\Debug\Spire.License.dll
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\bin\Debug\Spire.Pdf.dll
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.main.resources
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.小票管理.resources
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.exe
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.pdb
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+C:\Users\pangf17099\Desktop\打印管理\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+E:\桌面临时文件\打印管理\打印管理\打印管理\bin\Debug\打印管理.exe.config
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.exe
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.pdb
+E:\桌面临时文件\打印管理\打印管理\打印管理\bin\Debug\打印管理.exe
+E:\桌面临时文件\打印管理\打印管理\打印管理\bin\Debug\打印管理.pdb
+E:\桌面临时文件\打印管理\打印管理\打印管理\bin\Debug\Aspose.Words.dll
+E:\桌面临时文件\打印管理\打印管理\打印管理\bin\Debug\Spire.License.dll
+E:\桌面临时文件\打印管理\打印管理\打印管理\bin\Debug\Spire.Pdf.dll
+E:\桌面临时文件\打印管理\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.main.resources
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.小票管理.resources
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+E:\桌面临时文件\打印管理\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\bin\Debug\打印管理.exe.config
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.exe
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.pdb
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\bin\Debug\打印管理.exe
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\bin\Debug\打印管理.pdb
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.main.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.小票管理.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+C:\Users\95389\Desktop\新建文件夹 (2)\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.main.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.系统设置.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\bin\Debug\打印管理.exe.config
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\bin\Debug\打印管理.exe
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\bin\Debug\打印管理.pdb
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\bin\Debug\C1.Win.C1FlexGrid.dll
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\bin\Debug\C1.Common.dll
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.exe
+C:\Users\95389\Desktop\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.pdb
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\bin\Debug\打印管理.exe.config
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.exe
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.pdb
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\bin\Debug\打印管理.exe
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\bin\Debug\打印管理.pdb
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\bin\Debug\Spire.License.dll
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\bin\Debug\Spire.Pdf.dll
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.main.resources
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.系统设置.resources
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+C:\Users\pangf17099\Desktop\新建文件夹\新建文件夹 (2)\20190820\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.main.resources
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.系统设置.resources
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\bin\Debug\打印管理.exe.config
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\bin\Debug\打印管理.exe
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\bin\Debug\打印管理.pdb
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.exe
+E:\代码\C#\Winform\私单\打印管理\20190820\打印管理\打印管理\obj\Debug\打印管理.pdb
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\bin\Debug\打印管理.exe.config
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.exe
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.pdb
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\bin\Debug\打印管理.exe
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\bin\Debug\打印管理.pdb
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.main.resources
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.系统设置.resources
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\obj\Debug\打印管理.TipForm.resources
+E:\代码\C#\Winform\私单\打印管理 - 副本\20190820\打印管理\打印管理\bin\Debug\O2S.Components.PDFRender4NET.dll
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\bin\Debug\打印管理.exe.config
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.exe
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.pdb
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.main.resources
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.TipForm.resources
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.系统设置.resources
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\bin\Debug\打印管理.exe
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\bin\Debug\打印管理.pdb
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\bin\Debug\O2S.Components.PDFRender4NET.dll
+E:\代码\C#\Winform\私单\打印管理20190907\20190820\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190907\20190820\打印管理\打印管理\bin\Debug\打印管理.exe.config
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.exe
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190907\20190820\打印管理\打印管理\obj\Debug\打印管理.pdb
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\bin\Debug\打印管理.exe.config
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.exe
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.pdb
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.main.resources
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.TipForm.resources
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.系统设置.resources
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+C:\Users\Guofei5599\Desktop\共享文件夹\软件\打印管理\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\bin\Debug\打印管理.exe.config
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.exe
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.pdb
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.main.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.Password.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.TipForm.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.系统设置.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+E:\代码\C#\Winform\私单\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\bin\Debug\打印管理.exe.config
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.exe
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.pdb
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.main.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.Password.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.TipForm.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.系统设置.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\bin\Debug\打印管理.exe
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\bin\Debug\打印管理.pdb
+D:\项目\打印管理20190914\20190820\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\bin\Debug\打印管理.exe.config
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.exe
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.pdb
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\bin\Debug\打印管理.exe
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\bin\Debug\打印管理.pdb
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.main.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.Password.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.TipForm.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.系统设置.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+D:\项目\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\bin\Debug\打印管理.exe.config
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.exe
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.pdb
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\bin\Debug\打印管理.exe
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\bin\Debug\打印管理.pdb
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.main.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.Password.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.TipForm.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.系统设置.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\bin\Debug\打印管理.exe.config
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.exe
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.pdb
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\bin\Debug\打印管理.exe
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\bin\Debug\打印管理.pdb
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.main.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.Password.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.TipForm.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.系统设置.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+E:\项目\WinForm\打印管理\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+E:\代码\C#\Winform\私单\打印管理20190916\20190820\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\bin\Debug\打印管理.exe.config
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.exe
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.pdb
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\bin\Debug\打印管理.exe
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\bin\Debug\打印管理.pdb
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.main.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.Password.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.TipForm.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.系统设置.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\20190820\打印管理\打印管理\obj\Debug\打印管理.数字键盘.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\bin\Debug\打印管理.exe.config
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.csproj.ResolveComReference.cache
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.exe
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.pdb
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.csprojResolveAssemblyReference.cache
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.DateForm.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.frm_Main.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.main.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.Password.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.Properties.Resources.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.TipForm.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.价格管理.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.数字键盘.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.打印机界面.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.机器管理.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.系统设置.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.账单.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.用户数据库.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.纸张管理.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.配送管理.resources
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.csproj.GenerateResource.Cache
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\obj\Debug\打印管理.exe.licenses
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\bin\Debug\打印管理.exe
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\bin\Debug\打印管理.pdb
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\bin\Debug\System.Data.SQLite.dll
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\bin\Debug\Microsoft.mshtml.dll
+D:\Git Lib\PrintSoft_Winform\打印管理\打印管理\bin\Debug\System.Data.SQLite.xml
